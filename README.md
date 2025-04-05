@@ -5,14 +5,20 @@
   </a>
 </div>
 
-Computer Science - UFPR
-Third period student and currently workin with CiDAMO.
+<div>Computer Science - UFPR</div>
+<div>Third period student and currently workin with CiDAMO.</div>
+
+<br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/524573277381722125) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pietro.comin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PIetro Comin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pietro.comin10@gmail.com) 
 
+<br>
+
 ### 🌐 Check out my Website:  
 **➡️ [pietrocom.github.io](https://pietrocom.github.io)**  
+
+<br>
 
 ### 📜​ Main Languages:
 <div align="left">
@@ -20,12 +26,15 @@ Third period student and currently workin with CiDAMO.
   <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css&theme=dark&perline=6" alt="C++, C, Python, HTML, CSS logos" />
 </div>
 
+<br>
+
 ### 🔧 Main Tools:
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linux,github,vscode,vim&theme=dark&perline=4" alt="Linux, GitHub, Visual Studio Code, Vim logos" />
   <img src="https://github.com/logisim-evolution/logisim-evolution/blob/main/docs/img/logisim-evolution-logo.png" alt="Logisim" width="100" height="40" />
 </div>
 
+<br>
 
 ### 🏆 GitHub Stats ⏰:
 <div align="center">
@@ -34,11 +43,12 @@ Third period student and currently workin with CiDAMO.
   <img src="https://github-profile-trophy.vercel.app/?username=pietrocom&theme=matrix&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
+<br>
+
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pietrocom&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Antonio-RF/Antonio-RF/output/github-contribution-grid-snake-dark.svg">
