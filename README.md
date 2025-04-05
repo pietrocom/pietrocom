@@ -1,6 +1,15 @@
-# About Me:
-Computer Science - UFPR<br>Currently working with CiDAMO
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=00FF6A&section=header"/>
 
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=30F700&background=FFFFFF00&width=604&height=110&lines=Hi%2C+my+name+is+Antonio+R.F+%F0%9F%A4%93%E2%80%8B" alt="Typing SVG" />
+  </a>
+</div>
+
+<!-- ---Imagem---
+<div align="center">
+  <img src="Assets/Cybersecurity_picture.webp" alt="Hacker working in a dark room" width="400px" />
+</div>
+-->
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/524573277381722125) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pietro.comin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PIetro Comin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pietro.comin10@gmail.com) 
