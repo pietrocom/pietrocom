@@ -6,7 +6,7 @@
 </div>
 
 <div>Computer Science - UFPR</div>
-<div>Third period student and currently workin with CiDAMO.</div>
+<div>Fourth period student and currently workin with CiDAMO.</div>
 
 <br>
 
