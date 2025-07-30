@@ -1,49 +1,41 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2C3C64&section=header"/>
+Hi, my name is Pietro Comin 👋
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=EBC661&background=FFFFFF00&width=604&height=110&lines=Hi%2C+my+name+is+Pietro+Comin" alt="Typing SVG" />
-  </a>
-</div>
-
-<div>Computer Science - UFPR</div>
-<div>Fourth period student and currently workin with CiDAMO.</div>
-
-<br>
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discordapp.com/users/524573277381722125) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pietro.comin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pietro-comin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pietro.comin10@gmail.com) 
-
-<br>
-
-### 🌐 Check out my Website:  
-**➡️ [pietrocom.github.io](https://pietrocom.github.io)**  
-
-<br>
-
-### 📜​ Main Languages:
-<div align="left">
-  <img src="Assets/Pascal_icon.png" alt="Pascal Icon" width="50" height="45" />
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css&theme=dark&perline=6" alt="C++, C, Python, HTML, CSS logos" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=EBC661&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Computer+Scientist;C/C%2B%2B+Developer;Hardware+Enthusiast" alt="Typing SVG" />
+</a>
 </div>
 
 <br>
 
-### 🔧 Main Tools:
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=linux,github,vscode,vim&theme=dark&perline=4" alt="Linux, GitHub, Visual Studio Code, Vim logos" />
-  <img src="https://github.com/logisim-evolution/logisim-evolution/blob/main/docs/img/logisim-evolution-logo.png" alt="Logisim" width="100" height="40" />
-</div>
+I am a Computer Science student at the Federal University of Paraná (UFPR) and currently a researcher at the CiDAMO group. I have great interest on the topic of deep learning and AI in general.
 
-<br>
-
-### 🏆 GitHub Stats ⏰:
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pietrocom&layout=compact&theme=dark&title_color=00FF6A&text_color=8B8B8B&bg_color=000&border_radius=3&border_color=006633&cache_seconds=60" height="180px"/>
+<a href="https://www.linkedin.com/in/pietro-comin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:pietro.comin10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://pietrocom.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-2C3C64?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
+<a href="https://discordapp.com/users/524573277381722125" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</div>
+🛠️ Languages and Tools
+
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,linux,vim,vscode,github&perline=5" alt="My Skills"/>
+</a>
+<br>
+<img src="https://github.com/logisim-evolution/logisim-evolution/blob/main/docs/img/logisim-evolution-logo.png?raw=true" alt="Logisim" width="150" />
+</p>
+📊 My GitHub Stats
+
+<div align="center">
+<img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pietrocom&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+<img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pietrocom&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+</div>
+🐍 My Contribution Journey
+
+<div align="center">
+<img src="https://github.com/pietrocom/pietrocom/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<br>
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
+    [!NOTE]
+    “The best way to predict the future is to invent it.” – Alan Kay
