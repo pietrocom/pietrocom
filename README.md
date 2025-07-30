@@ -25,7 +25,7 @@ I am a Computer Science student at the Federal University of Paraná (UFPR) and 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=dark" alt="Main Languages"/>
 </a>
 <br>
-<img src="https://user-images.githubusercontent.com/125696569/289058434-a2364743-424a-4284-9333-722643a6d893.png" alt="Pascal Icon" width="55" height="50" />
+<img src="https://user-images.githubusercontent.com/125696569/289058434-a2364743-424a-4284-9333-722643a6d893.png" alt="Pascal_icon.png" width="55" height="50" />
 </p>
 🔧 Main Tools
 
