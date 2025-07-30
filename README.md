@@ -2,7 +2,7 @@ Hi, my name is Pietro Comin 👋
 
 <div align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=EBC661&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Computer+Scientist;C/C%2B%2B+Developer;Hardware+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&pause=1000&color=EBC661&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Computer+Scientist;C/C%2B%2B+Developer;Deep+Learning+Enthusiast" alt="Typing SVG" />
 </a>
 </div>
 
