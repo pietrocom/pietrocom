@@ -48,11 +48,11 @@ I am a Computer Science student at the Federal University of Paraná (UFPR) and 
 <br>
 
 <br>
-📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-<img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pietrocom&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-<img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pietrocom&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pietrocom&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pietrocom&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </div>
 
 <br>
