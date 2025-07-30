@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2C3C64&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2C3C64&section=header"/>
 </div>
 
 <div align="center">
@@ -18,6 +18,10 @@ I am a Computer Science student at the Federal University of Paraná (UFPR) and 
 <a href="https://pietrocom.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-2C3C64?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
 <a href="https://discordapp.com/users/524573277381722125" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </div>
+
+<br>
+
+<br>
 📜 Main Languages
 
 <p align="center">
@@ -25,8 +29,12 @@ I am a Computer Science student at the Federal University of Paraná (UFPR) and 
 <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css&theme=dark" alt="Main Languages"/>
 </a>
 <br>
-<img src="Assets/Pascal_icon.png" alt="Pascal_icon.png" width="55" height="50" />
+<img src="Assets/Pascal_icon.png" alt="Pascal Icon" width="55" height="50" />
 </p>
+
+<br>
+
+<br>
 🔧 Main Tools
 
 <p align="center">
@@ -36,17 +44,29 @@ I am a Computer Science student at the Federal University of Paraná (UFPR) and 
 <br>
 <img src="https://github.com/logisim-evolution/logisim-evolution/blob/main/docs/img/logisim-evolution-logo.png?raw=true" alt="Logisim" width="150" />
 </p>
+
+<br>
+
+<br>
 📊 GitHub Stats
 
 <div align="center">
 <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pietrocom&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="GitHub Stats" />
 <img height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pietrocom&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </div>
-🐍 My Contribution Journey
+
+<br>
+
+<br>
+My Contribution Journey
 
 <div align="center">
 <img src="https://github.com/pietrocom/pietrocom/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+<br>
+
+<br>
 💬 Random Dev Quote
 
 <div align="center">
@@ -56,5 +76,5 @@ I am a Computer Science student at the Federal University of Paraná (UFPR) and 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2C3C64&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=2C3C64&section=footer"/>
 </div>
